@@ -39,11 +39,11 @@ function Home() {
       {/* Read from /public without the '/public' prefix */}
       <TestimonialsSwipe
         images={[
-          "/public/client1.png",
-          "/public/client2.png",
-          "/public/client3.png",
-          "/public/client1.png",
-          "/public/client2.png",
+          "/client1.png",
+          "/client2.png",
+          "/client3.png",
+          "/client1.png",
+          "/client2.png",
         ]}
       />
 
